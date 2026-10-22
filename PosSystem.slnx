@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/practice/" />
+  <Folder Name="/practice/week01-memory/">
+    <Project Path="practice/week01-memory/Week01.Memory.csproj" />
+  </Folder>
+</Solution>
